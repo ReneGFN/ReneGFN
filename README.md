@@ -5,7 +5,7 @@
 <img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM5cDNsbm1mNHRmbXlqcm5haDFrNXppYzI1emRtYnBiMzZkb3c1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ###
-<h5 align="left">Sou estudante de Sistemas de Informação na PUC Minas, com foco no desenvolvimento Full Stack. Tenho experiência em C#, JavaScript, Python e SQL, o que me permite trabalhar tanto no front-end quanto no back-end de aplicações web. Gosto muito de aprender sobre novas tecnologias e estou sempre buscando maneiras de aplicar meu conhecimento para resolver problemas reais. Sou proativo, sociável e adoro colaborar com equipes para criar soluções eficientes e inovadoras. Meu objetivo é seguir aprendendo e crescer como desenvolvedor, aplicando meu conhecimento em projetos que possam realmente fazer a diferença.</h5>
+<h5 align="left">Atualmente cursando o sétimo período de Sistemas de Informação, possuo conhecimentos em C#, JavaScript, MySQL, HTML/CSS e Python. Tenho interesse em Inteligência Artificial, automação de processos e ferramentas Low-Code, buscando explorar como essas tecnologias podem contribuir para a otimização de processos e o desenvolvimento de soluções mais eficientes. Sou proativo, sociável e focado na resolução de problemas, sempre em busca de novos conhecimentos e tecnologias para ampliar minhas capacidades e acompanhar as inovações do mercado.</h5>
 
 
 <h2 align="left">Techs </h2>
