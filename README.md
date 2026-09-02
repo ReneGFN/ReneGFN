@@ -35,20 +35,20 @@
 
 ###
 <h2 align="left">GitHub Stats</h2>
-<br clear="both">
 
-<div align="left">
+<p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ReneGFN&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br"
-    height="150"
+    src="https://raw.githubusercontent.com/ReneGFN/ReneGFN/main/metrics.base.svg"
     alt="Estatísticas do GitHub"
   />
+</p>
+
+<p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ReneGFN&layout=compact&langs_count=5&theme=dracula&locale=pt-br"
-    height="150"
+    src="https://raw.githubusercontent.com/ReneGFN/ReneGFN/main/metrics.languages.svg"
     alt="Linguagens mais usadas"
   />
-</div>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReneGFN/ReneGFN/output/github-contribution-grid-snake-dark.svg">
